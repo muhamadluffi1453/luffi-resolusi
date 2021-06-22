@@ -2,5 +2,5 @@ LUFFI RESOLUSI
 - Belajar web programmer
 - Bekerja di perusahaan sebagai programmer
 - Menjadi programmer profesional yang tidak hanya menguasai web programing
-- Belajar JavaScript sampai expert
 - Menjadi senior web programmer
+- exspert JavaScript
