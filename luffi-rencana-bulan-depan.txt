@@ -2,6 +2,7 @@ RENCANA BULAN DEPAN LUFFI
 - JavaScript
   * ES 6
   * Framework JavaScript
+- Struktur Data Dasar
 - PHP Laravel
 - Vu js
 - Node js
