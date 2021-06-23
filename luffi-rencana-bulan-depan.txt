@@ -1,5 +1,7 @@
 RENCANA BULAN DEPAN LUFFI
 - JavaScript
+  * ES 6
+  * Framework JavaScript
 - PHP Laravel
 - Vu js
 - Node js
