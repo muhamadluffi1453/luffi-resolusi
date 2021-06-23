@@ -1,0 +1,6 @@
+RENCANA BULAN DEPAN LUFFI
+- JavaScript
+- PHP Laravel
+- Vu js
+- Node js
+- PostgreeSQL
