@@ -3,6 +3,7 @@ RENCANA BULAN DEPAN LUFFI
   * ES 6
   * Framework JavaScript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Laravel
   * Framework Laravel
